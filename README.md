@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
  📫 How to reach me: <a href="https://www.linkedin.com/in/nuno-silva-6b82ab192/">Click here!</a>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100px">
