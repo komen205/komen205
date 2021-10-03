@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=komen205&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300px">
