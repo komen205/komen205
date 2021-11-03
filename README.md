@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=komen205&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 If my open-source work has been useful to you feel free to [buy me a coffee](https://www.buymeacoffee.com/komen205). :-)
